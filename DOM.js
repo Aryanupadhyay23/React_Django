@@ -27,7 +27,7 @@
 
 // document.querySelector("div").appendChild(h1);
 
-// let h1 = document.querySelector("h1");
+// let h1 = document.querySelector("h1"); 
 // h1.style.color = "red";
 // // h1.style.backgroundColor = "yellow";
 // h1.style.fontFamily = "Gilroy";
